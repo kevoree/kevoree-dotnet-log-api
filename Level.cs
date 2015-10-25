@@ -4,12 +4,12 @@ namespace Org.Kevoree.Log.Api
 {
 	public enum Level
 	{
-		TRACE = 1,
-		DEBUG = 2,
-		INFO = 3,
-		WARN = 4,
-		ERROR = 5,
-		NONE = 6
+		Trace = 1,
+		Debug = 2,
+		Info = 3,
+		Warn = 4,
+		Error = 5,
+		None = 6
 	}
 
 }
