@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Org.Kevoree.Log.Api</id>
+    <version>1.0.0</version>
+    <title>Kevoree Logger Api</title>
+    <authors>Manuel Leduc</authors>
+    <owners>Kevoree</owners>
+    <licenseUrl>https://github.com/kevoree/kevoree-dotnet-log-api/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/kevoree/kevoree-dotnet-log-api</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/5556542?v=3&amp;s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Kevoree Logger Api</description>
+    <releaseNotes>First stable release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Kevoree Logger Api</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/kevoree-dotnet-log-api.dll" target="lib/net40/kevoree-dotnet-log-api.dll" />
+  </files>
+</package>
