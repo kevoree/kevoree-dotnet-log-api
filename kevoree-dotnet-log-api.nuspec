@@ -16,6 +16,6 @@
     <tags>Kevoree Logger Api</tags>
   </metadata>
   <files>
-    <file src="bin/Release/kevoree-dotnet-log-api.dll" target="lib/net40/kevoree-dotnet-log-api.dll" />
+    <file src="bin/Release/kevoree-dotnet-log-api.dll" target="lib/net40/Annotation.dll" />
   </files>
 </package>
